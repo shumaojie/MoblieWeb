@@ -1,0 +1,170 @@
+@charset "utf-8";
+/* CSS Document */
+.acc_inner_bg {
+	background: no-repeat scroll center top / 100% auto #BCB184;
+	height: 100%;
+	left: 0;
+	top: 0;
+	position: fixed;
+	width: 100%;
+}
+
+.fix_box {
+	position: relative;
+	width: 100%;
+}
+/*logo*/
+.bgwhite {
+	background: #fff;
+	display: block;
+	position: relative;
+	padding: 0 1.5rem;
+}
+
+.bgwhite-new {
+	padding: 0;
+	background: none;
+	display: -webkit-box;
+	display: -moz-box;
+}
+
+.line-bottom {
+	border-bottom: 1px solid #f6f6f6;
+}
+
+.text_left, .text_left_tt {
+	float: left;
+	color: #666;
+	position: relative;
+	padding-left: 2.8rem;
+}
+
+.text_left_tt {
+	text-align: left;
+}
+
+.mt30 {
+	margin-top: 3rem !important;
+}
+
+.zzc_btn a,.zzc_cancle_btn a {
+	background-color: #fe7f1c;
+	border-bottom: 0.2rem solid #FD6519;
+	color: #fff;
+	display: block;
+	font-size: 1.6rem;
+	line-height: 5.8rem;
+	text-align: center;
+	text-decoration: none;
+	height: 5.8rem;
+}
+
+.margin_a {
+	margin: 1.5rem;
+}
+
+.mar15 {
+	margin: 1.5rem !important;
+}
+
+.mar20 {
+	margin: 2rem;
+}
+
+.none {
+	display: none;
+}
+
+.margin-top {
+	margin-top: 9rem !important;
+}
+
+.other_link {
+	margin: 6rem 0;
+	text-align: center;
+}
+
+.pright {
+	clear: both;
+	font-size: 1.4rem;
+	color: #fff !important;
+	padding: 0.5rem 1rem;
+}
+
+.ac-two {
+	margin: 4rem 1.5rem 4.5rem;
+	display: -webkit-box;
+	display: -moz-box;
+}
+
+.ac-two-btn {
+	width: 50%;
+	padding: 1.2rem 1rem;
+	border: 1px solid rgba(255,255,255,0.8);
+	display: block;
+	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+}
+
+.login-input {
+	padding: 1.5rem 0;
+	height: 2.8rem;
+	line-height: 2.8rem;
+	width: 100%;
+	display: -webkit-box;
+	display: -moz-box;
+}
+
+.login-input input {
+	font-size: 1.6rem;
+	color: #333;
+	line-height: 2.8rem;
+	width: 100%;
+	direction: ltr;
+	display: block;
+	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+}
+
+.login-box {
+	position: relative;
+}
+
+.login-box .del-btn  .small-del-btn {
+	right: 0rem;
+}
+
+/*position: relative; background:#f4f4f4;
+top: -1.8rem;*/
+color: #fff;
+text-align: center; width:38%;
+}
+
+/*login_register*/
+.denglu a {
+background: #1E6389;
+border-bottom: 2px solid #155070;
+}
+
+.lr_btn_all {
+position: fixed;
+bottom: 0;
+width: 100%;
+left: 0rem;
+}
+
+.acc_logo {
+margin: 1rem 0;
+text-align: right;
+background: url(/images/common/logo.png) no-repeat;
+height: 4.9rem;
+width: 100%;
+background-size: 14.8rem auto;
+background-position: center 0;
+opacity: 0.9;
+}
+
+.denglu a {
+background: #fe7f1c;
+border-bottom: 0.2rem solid #FD6519;
+}

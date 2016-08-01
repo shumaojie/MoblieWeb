@@ -1,0 +1,1851 @@
+city = [{
+	"CityID": 1,
+	"CityName": "������",
+	"ProID": 1,
+	"CitySort": 1
+}, {
+	"CityID": 2,
+	"CityName": "�����",
+	"ProID": 2,
+	"CitySort": 2
+}, {
+	"CityID": 3,
+	"CityName": "�Ϻ���",
+	"ProID": 9,
+	"CitySort": 3
+}, {
+	"CityID": 4,
+	"CityName": "������",
+	"ProID": 27,
+	"CitySort": 4
+}, {
+	"CityID": 5,
+	"CityName": "������",
+	"ProID": 3,
+	"CitySort": 5
+}, {
+	"CityID": 6,
+	"CityName": "ʯ��ׯ��",
+	"ProID": 3,
+	"CitySort": 6
+}, {
+	"CityID": 7,
+	"CityName": "������",
+	"ProID": 3,
+	"CitySort": 7
+}, {
+	"CityID": 8,
+	"CityName": "�żҿ���",
+	"ProID": 3,
+	"CitySort": 8
+}, {
+	"CityID": 9,
+	"CityName": "�е���",
+	"ProID": 3,
+	"CitySort": 9
+}, {
+	"CityID": 10,
+	"CityName": "��ɽ��",
+	"ProID": 3,
+	"CitySort": 10
+}, {
+	"CityID": 11,
+	"CityName": "�ȷ���",
+	"ProID": 3,
+	"CitySort": 11
+}, {
+	"CityID": 12,
+	"CityName": "������",
+	"ProID": 3,
+	"CitySort": 12
+}, {
+	"CityID": 13,
+	"CityName": "��ˮ��",
+	"ProID": 3,
+	"CitySort": 13
+}, {
+	"CityID": 14,
+	"CityName": "��̨��",
+	"ProID": 3,
+	"CitySort": 14
+}, {
+	"CityID": 16,
+	"CityName": "˷����",
+	"ProID": 4,
+	"CitySort": 16
+}, {
+	"CityID": 17,
+	"CityName": "������",
+	"ProID": 4,
+	"CitySort": 17
+}, {
+	"CityID": 18,
+	"CityName": "̫ԭ��",
+	"ProID": 4,
+	"CitySort": 18
+}, {
+	"CityID": 19,
+	"CityName": "��ͬ��",
+	"ProID": 4,
+	"CitySort": 19
+}, {
+	"CityID": 20,
+	"CityName": "��Ȫ��",
+	"ProID": 4,
+	"CitySort": 20
+}, {
+	"CityID": 21,
+	"CityName": "������",
+	"ProID": 4,
+	"CitySort": 21
+}, {
+	"CityID": 22,
+	"CityName": "������",
+	"ProID": 4,
+	"CitySort": 22
+}, {
+	"CityID": 23,
+	"CityName": "�����",
+	"ProID": 4,
+	"CitySort": 23
+}, {
+	"CityID": 24,
+	"CityName": "�ٷ���",
+	"ProID": 4,
+	"CitySort": 24
+}, {
+	"CityID": 25,
+	"CityName": "������",
+	"ProID": 4,
+	"CitySort": 25
+}, {
+	"CityID": 26,
+	"CityName": "�˳���",
+	"ProID": 4,
+	"CitySort": 26
+}, {
+	"CityID": 27,
+	"CityName": "������",
+	"ProID": 6,
+	"CitySort": 27
+}, {
+	"CityID": 28,
+	"CityName": "������",
+	"ProID": 6,
+	"CitySort": 28
+}, {
+	"CityID": 29,
+	"CityName": "������",
+	"ProID": 6,
+	"CitySort": 29
+}, {
+	"CityID": 30,
+	"CityName": "��ɽ��",
+	"ProID": 6,
+	"CitySort": 30
+}, {
+	"CityID": 31,
+	"CityName": "��˳��",
+	"ProID": 6,
+	"CitySort": 31
+}, {
+	"CityID": 32,
+	"CityName": "��Ϫ��",
+	"ProID": 6,
+	"CitySort": 32
+}, {
+	"CityID": 33,
+	"CityName": "������",
+	"ProID": 6,
+	"CitySort": 33
+}, {
+	"CityID": 34,
+	"CityName": "������",
+	"ProID": 6,
+	"CitySort": 34
+}, {
+	"CityID": 35,
+	"CityName": "Ӫ����",
+	"ProID": 6,
+	"CitySort": 35
+}, {
+	"CityID": 36,
+	"CityName": "������",
+	"ProID": 6,
+	"CitySort": 36
+}, {
+	"CityID": 37,
+	"CityName": "������",
+	"ProID": 6,
+	"CitySort": 37
+}, {
+	"CityID": 38,
+	"CityName": "������",
+	"ProID": 6,
+	"CitySort": 38
+}, {
+	"CityID": 39,
+	"CityName": "�̽���",
+	"ProID": 6,
+	"CitySort": 39
+}, {
+	"CityID": 40,
+	"CityName": "��«����",
+	"ProID": 6,
+	"CitySort": 40
+}, {
+	"CityID": 41,
+	"CityName": "������",
+	"ProID": 7,
+	"CitySort": 41
+}, {
+	"CityID": 42,
+	"CityName": "������",
+	"ProID": 7,
+	"CitySort": 42
+}, {
+	"CityID": 43,
+	"CityName": "�ӱ߳�����������",
+	"ProID": 7,
+	"CitySort": 43
+}, {
+	"CityID": 44,
+	"CityName": "��ƽ��",
+	"ProID": 7,
+	"CitySort": 44
+}, {
+	"CityID": 45,
+	"CityName": "ͨ����",
+	"ProID": 7,
+	"CitySort": 45
+}, {
+	"CityID": 46,
+	"CityName": "�׳���",
+	"ProID": 7,
+	"CitySort": 46
+}, {
+	"CityID": 47,
+	"CityName": "��Դ��",
+	"ProID": 7,
+	"CitySort": 47
+}, {
+	"CityID": 48,
+	"CityName": "��ԭ��",
+	"ProID": 7,
+	"CitySort": 48
+}, {
+	"CityID": 49,
+	"CityName": "��ɽ��",
+	"ProID": 7,
+	"CitySort": 49
+}, {
+	"CityID": 50,
+	"CityName": "�������",
+	"ProID": 8,
+	"CitySort": 50
+}, {
+	"CityID": 51,
+	"CityName": "���������",
+	"ProID": 8,
+	"CitySort": 51
+}, {
+	"CityID": 52,
+	"CityName": "������",
+	"ProID": 8,
+	"CitySort": 52
+}, {
+	"CityID": 53,
+	"CityName": "ĵ������",
+	"ProID": 8,
+	"CitySort": 53
+}, {
+	"CityID": 54,
+	"CityName": "��̨����",
+	"ProID": 8,
+	"CitySort": 54
+}, {
+	"CityID": 55,
+	"CityName": "��ľ˹��",
+	"ProID": 8,
+	"CitySort": 55
+}, {
+	"CityID": 56,
+	"CityName": "�׸���",
+	"ProID": 8,
+	"CitySort": 56
+}, {
+	"CityID": 57,
+	"CityName": "˫Ѽɽ��",
+	"ProID": 8,
+	"CitySort": 57
+}, {
+	"CityID": 58,
+	"CityName": "�绯��",
+	"ProID": 8,
+	"CitySort": 58
+}, {
+	"CityID": 59,
+	"CityName": "�ں���",
+	"ProID": 8,
+	"CitySort": 59
+}, {
+	"CityID": 60,
+	"CityName": "���˰������",
+	"ProID": 8,
+	"CitySort": 60
+}, {
+	"CityID": 61,
+	"CityName": "������",
+	"ProID": 8,
+	"CitySort": 61
+}, {
+	"CityID": 62,
+	"CityName": "������",
+	"ProID": 8,
+	"CitySort": 62
+}, {
+	"CityID": 63,
+	"CityName": "�Ͼ���",
+	"ProID": 10,
+	"CitySort": 63
+}, {
+	"CityID": 64,
+	"CityName": "������",
+	"ProID": 10,
+	"CitySort": 64
+}, {
+	"CityID": 65,
+	"CityName": "����",
+	"ProID": 10,
+	"CitySort": 65
+}, {
+	"CityID": 66,
+	"CityName": "������",
+	"ProID": 10,
+	"CitySort": 66
+}, {
+	"CityID": 67,
+	"CityName": "��ͨ��",
+	"ProID": 10,
+	"CitySort": 67
+}, {
+	"CityID": 68,
+	"CityName": "������",
+	"ProID": 10,
+	"CitySort": 68
+}, {
+	"CityID": 69,
+	"CityName": "�γ���",
+	"ProID": 10,
+	"CitySort": 69
+}, {
+	"CityID": 70,
+	"CityName": "������",
+	"ProID": 10,
+	"CitySort": 70
+}, {
+	"CityID": 71,
+	"CityName": "������",
+	"ProID": 10,
+	"CitySort": 71
+}, {
+	"CityID": 72,
+	"CityName": "���Ƹ���",
+	"ProID": 10,
+	"CitySort": 72
+}, {
+	"CityID": 73,
+	"CityName": "������",
+	"ProID": 10,
+	"CitySort": 73
+}, {
+	"CityID": 74,
+	"CityName": "̩����",
+	"ProID": 10,
+	"CitySort": 74
+}, {
+	"CityID": 75,
+	"CityName": "��Ǩ��",
+	"ProID": 10,
+	"CitySort": 75
+}, {
+	"CityID": 76,
+	"CityName": "��ɽ��",
+	"ProID": 11,
+	"CitySort": 76
+}, {
+	"CityID": 77,
+	"CityName": "������",
+	"ProID": 11,
+	"CitySort": 77
+}, {
+	"CityID": 78,
+	"CityName": "������",
+	"ProID": 11,
+	"CitySort": 78
+}, {
+	"CityID": 79,
+	"CityName": "������",
+	"ProID": 11,
+	"CitySort": 79
+}, {
+	"CityID": 80,
+	"CityName": "������",
+	"ProID": 11,
+	"CitySort": 80
+}, {
+	"CityID": 81,
+	"CityName": "������",
+	"ProID": 11,
+	"CitySort": 81
+}, {
+	"CityID": 82,
+	"CityName": "������",
+	"ProID": 11,
+	"CitySort": 82
+}, {
+	"CityID": 83,
+	"CityName": "������",
+	"ProID": 11,
+	"CitySort": 83
+}, {
+	"CityID": 84,
+	"CityName": "��ˮ��",
+	"ProID": 11,
+	"CitySort": 84
+}, {
+	"CityID": 85,
+	"CityName": "����",
+	"ProID": 11,
+	"CitySort": 85
+}, {
+	"CityID": 86,
+	"CityName": "̨����",
+	"ProID": 11,
+	"CitySort": 86
+}, {
+	"CityID": 87,
+	"CityName": "�Ϸ���",
+	"ProID": 12,
+	"CitySort": 87
+}, {
+	"CityID": 88,
+	"CityName": "�ߺ���",
+	"ProID": 12,
+	"CitySort": 88
+}, {
+	"CityID": 89,
+	"CityName": "������",
+	"ProID": 12,
+	"CitySort": 89
+}, {
+	"CityID": 90,
+	"CityName": "������",
+	"ProID": 12,
+	"CitySort": 90
+}, {
+	"CityID": 91,
+	"CityName": "�?ɽ��",
+	"ProID": 12,
+	"CitySort": 91
+}, {
+	"CityID": 92,
+	"CityName": "������",
+	"ProID": 12,
+	"CitySort": 92
+}, {
+	"CityID": 93,
+	"CityName": "ͭ����",
+	"ProID": 12,
+	"CitySort": 93
+}, {
+	"CityID": 94,
+	"CityName": "������",
+	"ProID": 12,
+	"CitySort": 94
+}, {
+	"CityID": 95,
+	"CityName": "��ɽ��",
+	"ProID": 12,
+	"CitySort": 95
+}, {
+	"CityID": 96,
+	"CityName": "������",
+	"ProID": 12,
+	"CitySort": 96
+}, {
+	"CityID": 97,
+	"CityName": "������",
+	"ProID": 12,
+	"CitySort": 97
+}, {
+	"CityID": 98,
+	"CityName": "������",
+	"ProID": 12,
+	"CitySort": 98
+}, {
+	"CityID": 99,
+	"CityName": "������",
+	"ProID": 12,
+	"CitySort": 99
+}, {
+	"CityID": 100,
+	"CityName": "����",
+	"ProID": 12,
+	"CitySort": 100
+}, {
+	"CityID": 101,
+	"CityName": "������",
+	"ProID": 12,
+	"CitySort": 101
+}, {
+	"CityID": 102,
+	"CityName": "������",
+	"ProID": 12,
+	"CitySort": 102
+}, {
+	"CityID": 103,
+	"CityName": "�����",
+	"ProID": 12,
+	"CitySort": 103
+}, {
+	"CityID": 104,
+	"CityName": "������",
+	"ProID": 13,
+	"CitySort": 104
+}, {
+	"CityID": 105,
+	"CityName": "������",
+	"ProID": 13,
+	"CitySort": 105
+}, {
+	"CityID": 106,
+	"CityName": "������",
+	"ProID": 13,
+	"CitySort": 106
+}, {
+	"CityID": 107,
+	"CityName": "������",
+	"ProID": 13,
+	"CitySort": 107
+}, {
+	"CityID": 108,
+	"CityName": "Ȫ����",
+	"ProID": 13,
+	"CitySort": 108
+}, {
+	"CityID": 109,
+	"CityName": "������",
+	"ProID": 13,
+	"CitySort": 109
+}, {
+	"CityID": 110,
+	"CityName": "������",
+	"ProID": 13,
+	"CitySort": 110
+}, {
+	"CityID": 111,
+	"CityName": "������",
+	"ProID": 13,
+	"CitySort": 111
+}, {
+	"CityID": 112,
+	"CityName": "��ƽ��",
+	"ProID": 13,
+	"CitySort": 112
+}, {
+	"CityID": 113,
+	"CityName": "ӥ̶��",
+	"ProID": 14,
+	"CitySort": 113
+}, {
+	"CityID": 114,
+	"CityName": "������",
+	"ProID": 14,
+	"CitySort": 114
+}, {
+	"CityID": 115,
+	"CityName": "�ϲ���",
+	"ProID": 14,
+	"CitySort": 115
+}, {
+	"CityID": 116,
+	"CityName": "�Ž���",
+	"ProID": 14,
+	"CitySort": 116
+}, {
+	"CityID": 117,
+	"CityName": "������",
+	"ProID": 14,
+	"CitySort": 117
+}, {
+	"CityID": 118,
+	"CityName": "������",
+	"ProID": 14,
+	"CitySort": 118
+}, {
+	"CityID": 119,
+	"CityName": "�˴���",
+	"ProID": 14,
+	"CitySort": 119
+}, {
+	"CityID": 120,
+	"CityName": "������",
+	"ProID": 14,
+	"CitySort": 120
+}, {
+	"CityID": 121,
+	"CityName": "������",
+	"ProID": 14,
+	"CitySort": 121
+}, {
+	"CityID": 122,
+	"CityName": "��������",
+	"ProID": 14,
+	"CitySort": 122
+}, {
+	"CityID": 123,
+	"CityName": "Ƽ����",
+	"ProID": 14,
+	"CitySort": 123
+}, {
+	"CityID": 124,
+	"CityName": "������",
+	"ProID": 15,
+	"CitySort": 124
+}, {
+	"CityID": 125,
+	"CityName": "������",
+	"ProID": 15,
+	"CitySort": 125
+}, {
+	"CityID": 126,
+	"CityName": "�ൺ��",
+	"ProID": 15,
+	"CitySort": 126
+}, {
+	"CityID": 127,
+	"CityName": "�Ͳ���",
+	"ProID": 15,
+	"CitySort": 127
+}, {
+	"CityID": 128,
+	"CityName": "������",
+	"ProID": 15,
+	"CitySort": 128
+}, {
+	"CityID": 129,
+	"CityName": "��̨��",
+	"ProID": 15,
+	"CitySort": 129
+}, {
+	"CityID": 130,
+	"CityName": "Ϋ����",
+	"ProID": 15,
+	"CitySort": 130
+}, {
+	"CityID": 131,
+	"CityName": "������",
+	"ProID": 15,
+	"CitySort": 131
+}, {
+	"CityID": 132,
+	"CityName": "̩����",
+	"ProID": 15,
+	"CitySort": 132
+}, {
+	"CityID": 133,
+	"CityName": "������",
+	"ProID": 15,
+	"CitySort": 133
+}, {
+	"CityID": 134,
+	"CityName": "������",
+	"ProID": 15,
+	"CitySort": 134
+}, {
+	"CityID": 135,
+	"CityName": "��Ӫ��",
+	"ProID": 15,
+	"CitySort": 135
+}, {
+	"CityID": 136,
+	"CityName": "������",
+	"ProID": 15,
+	"CitySort": 136
+}, {
+	"CityID": 137,
+	"CityName": "��ׯ��",
+	"ProID": 15,
+	"CitySort": 137
+}, {
+	"CityID": 138,
+	"CityName": "������",
+	"ProID": 15,
+	"CitySort": 138
+}, {
+	"CityID": 139,
+	"CityName": "������",
+	"ProID": 15,
+	"CitySort": 139
+}, {
+	"CityID": 140,
+	"CityName": "�ĳ���",
+	"ProID": 15,
+	"CitySort": 140
+}, {
+	"CityID": 141,
+	"CityName": "������",
+	"ProID": 16,
+	"CitySort": 141
+}, {
+	"CityID": 142,
+	"CityName": "֣����",
+	"ProID": 16,
+	"CitySort": 142
+}, {
+	"CityID": 143,
+	"CityName": "������",
+	"ProID": 16,
+	"CitySort": 143
+}, {
+	"CityID": 144,
+	"CityName": "������",
+	"ProID": 16,
+	"CitySort": 144
+}, {
+	"CityID": 145,
+	"CityName": "�����",
+	"ProID": 16,
+	"CitySort": 145
+}, {
+	"CityID": 146,
+	"CityName": "ƽ��ɽ��",
+	"ProID": 16,
+	"CitySort": 146
+}, {
+	"CityID": 147,
+	"CityName": "������",
+	"ProID": 16,
+	"CitySort": 147
+}, {
+	"CityID": 148,
+	"CityName": "������",
+	"ProID": 16,
+	"CitySort": 148
+}, {
+	"CityID": 149,
+	"CityName": "������",
+	"ProID": 16,
+	"CitySort": 149
+}, {
+	"CityID": 150,
+	"CityName": "������",
+	"ProID": 16,
+	"CitySort": 150
+}, {
+	"CityID": 151,
+	"CityName": "��Դ��",
+	"ProID": 16,
+	"CitySort": 151
+}, {
+	"CityID": 152,
+	"CityName": "������",
+	"ProID": 16,
+	"CitySort": 152
+}, {
+	"CityID": 153,
+	"CityName": "�ױ���",
+	"ProID": 16,
+	"CitySort": 153
+}, {
+	"CityID": 154,
+	"CityName": "�����",
+	"ProID": 16,
+	"CitySort": 154
+}, {
+	"CityID": 155,
+	"CityName": "�ܿ���",
+	"ProID": 16,
+	"CitySort": 155
+}, {
+	"CityID": 156,
+	"CityName": "�����",
+	"ProID": 16,
+	"CitySort": 156
+}, {
+	"CityID": 157,
+	"CityName": "פ�����",
+	"ProID": 16,
+	"CitySort": 157
+}, {
+	"CityID": 158,
+	"CityName": "����Ͽ��",
+	"ProID": 16,
+	"CitySort": 158
+}, {
+	"CityID": 159,
+	"CityName": "�人��",
+	"ProID": 17,
+	"CitySort": 159
+}, {
+	"CityID": 160,
+	"CityName": "�差��",
+	"ProID": 17,
+	"CitySort": 160
+}, {
+	"CityID": 161,
+	"CityName": "������",
+	"ProID": 17,
+	"CitySort": 161
+}, {
+	"CityID": 162,
+	"CityName": "Т����",
+	"ProID": 17,
+	"CitySort": 162
+}, {
+	"CityID": 163,
+	"CityName": "�Ƹ���",
+	"ProID": 17,
+	"CitySort": 163
+}, {
+	"CityID": 164,
+	"CityName": "��ʯ��",
+	"ProID": 17,
+	"CitySort": 164
+}, {
+	"CityID": 165,
+	"CityName": "������",
+	"ProID": 17,
+	"CitySort": 165
+}, {
+	"CityID": 166,
+	"CityName": "������",
+	"ProID": 17,
+	"CitySort": 166
+}, {
+	"CityID": 167,
+	"CityName": "�˲���",
+	"ProID": 17,
+	"CitySort": 167
+}, {
+	"CityID": 168,
+	"CityName": "��ʩ����������������",
+	"ProID": 17,
+	"CitySort": 168
+}, {
+	"CityID": 169,
+	"CityName": "��ũ������",
+	"ProID": 17,
+	"CitySort": 169
+}, {
+	"CityID": 170,
+	"CityName": "ʮ����",
+	"ProID": 17,
+	"CitySort": 170
+}, {
+	"CityID": 171,
+	"CityName": "������",
+	"ProID": 17,
+	"CitySort": 171
+}, {
+	"CityID": 172,
+	"CityName": "������",
+	"ProID": 17,
+	"CitySort": 172
+}, {
+	"CityID": 173,
+	"CityName": "������",
+	"ProID": 17,
+	"CitySort": 173
+}, {
+	"CityID": 174,
+	"CityName": "������",
+	"ProID": 17,
+	"CitySort": 174
+}, {
+	"CityID": 175,
+	"CityName": "Ǳ����",
+	"ProID": 17,
+	"CitySort": 175
+}, {
+	"CityID": 176,
+	"CityName": "������",
+	"ProID": 18,
+	"CitySort": 176
+}, {
+	"CityID": 177,
+	"CityName": "��ɳ��",
+	"ProID": 18,
+	"CitySort": 177
+}, {
+	"CityID": 178,
+	"CityName": "��̶��",
+	"ProID": 18,
+	"CitySort": 178
+}, {
+	"CityID": 179,
+	"CityName": "������",
+	"ProID": 18,
+	"CitySort": 179
+}, {
+	"CityID": 180,
+	"CityName": "������",
+	"ProID": 18,
+	"CitySort": 180
+}, {
+	"CityID": 181,
+	"CityName": "������",
+	"ProID": 18,
+	"CitySort": 181
+}, {
+	"CityID": 182,
+	"CityName": "������",
+	"ProID": 18,
+	"CitySort": 182
+}, {
+	"CityID": 183,
+	"CityName": "������",
+	"ProID": 18,
+	"CitySort": 183
+}, {
+	"CityID": 184,
+	"CityName": "¦����",
+	"ProID": 18,
+	"CitySort": 184
+}, {
+	"CityID": 185,
+	"CityName": "������",
+	"ProID": 18,
+	"CitySort": 185
+}, {
+	"CityID": 186,
+	"CityName": "��������������������",
+	"ProID": 18,
+	"CitySort": 186
+}, {
+	"CityID": 187,
+	"CityName": "�żҽ���",
+	"ProID": 18,
+	"CitySort": 187
+}, {
+	"CityID": 188,
+	"CityName": "������",
+	"ProID": 18,
+	"CitySort": 188
+}, {
+	"CityID": 189,
+	"CityName": "������",
+	"ProID": 18,
+	"CitySort": 189
+}, {
+	"CityID": 190,
+	"CityName": "������",
+	"ProID": 19,
+	"CitySort": 190
+}, {
+	"CityID": 191,
+	"CityName": "��β��",
+	"ProID": 19,
+	"CitySort": 191
+}, {
+	"CityID": 192,
+	"CityName": "������",
+	"ProID": 19,
+	"CitySort": 192
+}, {
+	"CityID": 193,
+	"CityName": "������",
+	"ProID": 19,
+	"CitySort": 193
+}, {
+	"CityID": 194,
+	"CityName": "ï����",
+	"ProID": 19,
+	"CitySort": 194
+}, {
+	"CityID": 195,
+	"CityName": "������",
+	"ProID": 19,
+	"CitySort": 195
+}, {
+	"CityID": 196,
+	"CityName": "������",
+	"ProID": 19,
+	"CitySort": 196
+}, {
+	"CityID": 197,
+	"CityName": "�ع���",
+	"ProID": 19,
+	"CitySort": 197
+}, {
+	"CityID": 198,
+	"CityName": "÷����",
+	"ProID": 19,
+	"CitySort": 198
+}, {
+	"CityID": 199,
+	"CityName": "��ͷ��",
+	"ProID": 19,
+	"CitySort": 199
+}, {
+	"CityID": 200,
+	"CityName": "������",
+	"ProID": 19,
+	"CitySort": 200
+}, {
+	"CityID": 201,
+	"CityName": "�麣��",
+	"ProID": 19,
+	"CitySort": 201
+}, {
+	"CityID": 202,
+	"CityName": "��ɽ��",
+	"ProID": 19,
+	"CitySort": 202
+}, {
+	"CityID": 203,
+	"CityName": "������",
+	"ProID": 19,
+	"CitySort": 203
+}, {
+	"CityID": 204,
+	"CityName": "տ����",
+	"ProID": 19,
+	"CitySort": 204
+}, {
+	"CityID": 205,
+	"CityName": "��ɽ��",
+	"ProID": 19,
+	"CitySort": 205
+}, {
+	"CityID": 206,
+	"CityName": "��Դ��",
+	"ProID": 19,
+	"CitySort": 206
+}, {
+	"CityID": 207,
+	"CityName": "��Զ��",
+	"ProID": 19,
+	"CitySort": 207
+}, {
+	"CityID": 208,
+	"CityName": "�Ƹ���",
+	"ProID": 19,
+	"CitySort": 208
+}, {
+	"CityID": 209,
+	"CityName": "������",
+	"ProID": 19,
+	"CitySort": 209
+}, {
+	"CityID": 210,
+	"CityName": "��ݸ��",
+	"ProID": 19,
+	"CitySort": 210
+}, {
+	"CityID": 211,
+	"CityName": "������",
+	"ProID": 22,
+	"CitySort": 211
+}, {
+	"CityID": 212,
+	"CityName": "�����",
+	"ProID": 22,
+	"CitySort": 212
+}, {
+	"CityID": 213,
+	"CityName": "������",
+	"ProID": 22,
+	"CitySort": 213
+}, {
+	"CityID": 214,
+	"CityName": "��ˮ��",
+	"ProID": 22,
+	"CitySort": 214
+}, {
+	"CityID": 215,
+	"CityName": "�������",
+	"ProID": 22,
+	"CitySort": 215
+}, {
+	"CityID": 216,
+	"CityName": "������",
+	"ProID": 22,
+	"CitySort": 216
+}, {
+	"CityID": 217,
+	"CityName": "��Ҵ��",
+	"ProID": 22,
+	"CitySort": 217
+}, {
+	"CityID": 218,
+	"CityName": "ƽ����",
+	"ProID": 22,
+	"CitySort": 218
+}, {
+	"CityID": 219,
+	"CityName": "��Ȫ��",
+	"ProID": 22,
+	"CitySort": 219
+}, {
+	"CityID": 220,
+	"CityName": "������",
+	"ProID": 22,
+	"CitySort": 220
+}, {
+	"CityID": 221,
+	"CityName": "������",
+	"ProID": 22,
+	"CitySort": 221
+}, {
+	"CityID": 222,
+	"CityName": "¤����",
+	"ProID": 22,
+	"CitySort": 222
+}, {
+	"CityID": 223,
+	"CityName": "���Ļ���������",
+	"ProID": 22,
+	"CitySort": 223
+}, {
+	"CityID": 224,
+	"CityName": "���ϲ���������",
+	"ProID": 22,
+	"CitySort": 224
+}, {
+	"CityID": 225,
+	"CityName": "�ɶ���",
+	"ProID": 28,
+	"CitySort": 225
+}, {
+	"CityID": 226,
+	"CityName": "��֦����",
+	"ProID": 28,
+	"CitySort": 226
+}, {
+	"CityID": 227,
+	"CityName": "�Թ���",
+	"ProID": 28,
+	"CitySort": 227
+}, {
+	"CityID": 228,
+	"CityName": "������",
+	"ProID": 28,
+	"CitySort": 228
+}, {
+	"CityID": 229,
+	"CityName": "�ϳ���",
+	"ProID": 28,
+	"CitySort": 229
+}, {
+	"CityID": 230,
+	"CityName": "������",
+	"ProID": 28,
+	"CitySort": 230
+}, {
+	"CityID": 231,
+	"CityName": "������",
+	"ProID": 28,
+	"CitySort": 231
+}, {
+	"CityID": 232,
+	"CityName": "�㰲��",
+	"ProID": 28,
+	"CitySort": 232
+}, {
+	"CityID": 233,
+	"CityName": "������",
+	"ProID": 28,
+	"CitySort": 233
+}, {
+	"CityID": 234,
+	"CityName": "������",
+	"ProID": 28,
+	"CitySort": 234
+}, {
+	"CityID": 235,
+	"CityName": "�˱���",
+	"ProID": 28,
+	"CitySort": 235
+}, {
+	"CityID": 236,
+	"CityName": "������",
+	"ProID": 28,
+	"CitySort": 236
+}, {
+	"CityID": 237,
+	"CityName": "�ڽ���",
+	"ProID": 28,
+	"CitySort": 237
+}, {
+	"CityID": 238,
+	"CityName": "��ɽ��",
+	"ProID": 28,
+	"CitySort": 238
+}, {
+	"CityID": 239,
+	"CityName": "üɽ��",
+	"ProID": 28,
+	"CitySort": 239
+}, {
+	"CityID": 240,
+	"CityName": "��ɽ����������",
+	"ProID": 28,
+	"CitySort": 240
+}, {
+	"CityID": 241,
+	"CityName": "�Ű���",
+	"ProID": 28,
+	"CitySort": 241
+}, {
+	"CityID": 242,
+	"CityName": "���β���������",
+	"ProID": 28,
+	"CitySort": 242
+}, {
+	"CityID": 243,
+	"CityName": "���Ӳ���Ǽ��������",
+	"ProID": 28,
+	"CitySort": 243
+}, {
+	"CityID": 244,
+	"CityName": "������",
+	"ProID": 28,
+	"CitySort": 244
+}, {
+	"CityID": 245,
+	"CityName": "��Ԫ��",
+	"ProID": 28,
+	"CitySort": 245
+}, {
+	"CityID": 246,
+	"CityName": "������",
+	"ProID": 29,
+	"CitySort": 246
+}, {
+	"CityID": 247,
+	"CityName": "������",
+	"ProID": 29,
+	"CitySort": 247
+}, {
+	"CityID": 248,
+	"CityName": "��˳��",
+	"ProID": 29,
+	"CitySort": 248
+}, {
+	"CityID": 249,
+	"CityName": "ǭ�ϲ���������������",
+	"ProID": 29,
+	"CitySort": 249
+}, {
+	"CityID": 250,
+	"CityName": "ǭ�������嶱��������",
+	"ProID": 29,
+	"CitySort": 250
+}, {
+	"CityID": 251,
+	"CityName": "ͭ�ʵ���",
+	"ProID": 29,
+	"CitySort": 251
+}, {
+	"CityID": 252,
+	"CityName": "�Ͻڵ���",
+	"ProID": 29,
+	"CitySort": 252
+}, {
+	"CityID": 253,
+	"CityName": "����ˮ��",
+	"ProID": 29,
+	"CitySort": 253
+}, {
+	"CityID": 254,
+	"CityName": "ǭ���ϲ���������������",
+	"ProID": 29,
+	"CitySort": 254
+}, {
+	"CityID": 255,
+	"CityName": "������",
+	"ProID": 20,
+	"CitySort": 255
+}, {
+	"CityID": 256,
+	"CityName": "������",
+	"ProID": 20,
+	"CitySort": 256
+}, {
+	"CityID": 257,
+	"CityName": "��ָɽ��",
+	"ProID": 20,
+	"CitySort": 257
+}, {
+	"CityID": 258,
+	"CityName": "�?��",
+	"ProID": 20,
+	"CitySort": 258
+}, {
+	"CityID": 259,
+	"CityName": "������",
+	"ProID": 20,
+	"CitySort": 259
+}, {
+	"CityID": 260,
+	"CityName": "�Ĳ���",
+	"ProID": 20,
+	"CitySort": 260
+}, {
+	"CityID": 261,
+	"CityName": "������",
+	"ProID": 20,
+	"CitySort": 261
+}, {
+	"CityID": 262,
+	"CityName": "������",
+	"ProID": 20,
+	"CitySort": 262
+}, {
+	"CityID": 263,
+	"CityName": "������",
+	"ProID": 20,
+	"CitySort": 263
+}, {
+	"CityID": 264,
+	"CityName": "������",
+	"ProID": 20,
+	"CitySort": 264
+}, {
+	"CityID": 265,
+	"CityName": "�Ͳ���",
+	"ProID": 20,
+	"CitySort": 265
+}, {
+	"CityID": 266,
+	"CityName": "�ٸ���",
+	"ProID": 20,
+	"CitySort": 266
+}, {
+	"CityID": 267,
+	"CityName": "��ɳ����������",
+	"ProID": 20,
+	"CitySort": 267
+}, {
+	"CityID": 268,
+	"CityName": "������������",
+	"ProID": 20,
+	"CitySort": 268
+}, {
+	"CityID": 269,
+	"CityName": "�ֶ�����������",
+	"ProID": 20,
+	"CitySort": 269
+}, {
+	"CityID": 270,
+	"CityName": "��ˮ����������",
+	"ProID": 20,
+	"CitySort": 270
+}, {
+	"CityID": 271,
+	"CityName": "��ͤ��������������",
+	"ProID": 20,
+	"CitySort": 271
+}, {
+	"CityID": 272,
+	"CityName": "������������������",
+	"ProID": 20,
+	"CitySort": 272
+}, {
+	"CityID": 273,
+	"CityName": "��˫���ɴ���������",
+	"ProID": 30,
+	"CitySort": 273
+}, {
+	"CityID": 274,
+	"CityName": "�º���徰����������",
+	"ProID": 30,
+	"CitySort": 274
+}, {
+	"CityID": 275,
+	"CityName": "��ͨ��",
+	"ProID": 30,
+	"CitySort": 275
+}, {
+	"CityID": 276,
+	"CityName": "������",
+	"ProID": 30,
+	"CitySort": 276
+}, {
+	"CityID": 277,
+	"CityName": "�������������",
+	"ProID": 30,
+	"CitySort": 277
+}, {
+	"CityID": 278,
+	"CityName": "��ӹ���������������",
+	"ProID": 30,
+	"CitySort": 278
+}, {
+	"CityID": 279,
+	"CityName": "����",
+	"ProID": 30,
+	"CitySort": 279
+}, {
+	"CityID": 280,
+	"CityName": "��ɽ��",
+	"ProID": 30,
+	"CitySort": 280
+}, {
+	"CityID": 281,
+	"CityName": "��ɽ׳������������",
+	"ProID": 30,
+	"CitySort": 281
+}, {
+	"CityID": 282,
+	"CityName": "��Ϫ��",
+	"ProID": 30,
+	"CitySort": 282
+}, {
+	"CityID": 283,
+	"CityName": "��������������",
+	"ProID": 30,
+	"CitySort": 283
+}, {
+	"CityID": 284,
+	"CityName": "�ն���",
+	"ProID": 30,
+	"CitySort": 284
+}, {
+	"CityID": 285,
+	"CityName": "�ٲ���",
+	"ProID": 30,
+	"CitySort": 285
+}, {
+	"CityID": 286,
+	"CityName": "ŭ��������������",
+	"ProID": 30,
+	"CitySort": 286
+}, {
+	"CityID": 287,
+	"CityName": "�������������",
+	"ProID": 30,
+	"CitySort": 287
+}, {
+	"CityID": 288,
+	"CityName": "������",
+	"ProID": 30,
+	"CitySort": 288
+}, {
+	"CityID": 289,
+	"CityName": "��������������",
+	"ProID": 25,
+	"CitySort": 289
+}, {
+	"CityID": 290,
+	"CityName": "������",
+	"ProID": 25,
+	"CitySort": 290
+}, {
+	"CityID": 291,
+	"CityName": "��������",
+	"ProID": 25,
+	"CitySort": 291
+}, {
+	"CityID": 292,
+	"CityName": "���ϲ���������",
+	"ProID": 25,
+	"CitySort": 292
+}, {
+	"CityID": 293,
+	"CityName": "���ϲ���������",
+	"ProID": 25,
+	"CitySort": 293
+}, {
+	"CityID": 294,
+	"CityName": "�������������",
+	"ProID": 25,
+	"CitySort": 294
+}, {
+	"CityID": 295,
+	"CityName": "��������������",
+	"ProID": 25,
+	"CitySort": 295
+}, {
+	"CityID": 296,
+	"CityName": "�����ɹ������������",
+	"ProID": 25,
+	"CitySort": 296
+}, {
+	"CityID": 297,
+	"CityName": "������",
+	"ProID": 23,
+	"CitySort": 297
+}, {
+	"CityID": 298,
+	"CityName": "������",
+	"ProID": 23,
+	"CitySort": 298
+}, {
+	"CityID": 299,
+	"CityName": "�Ӱ���",
+	"ProID": 23,
+	"CitySort": 299
+}, {
+	"CityID": 300,
+	"CityName": "������",
+	"ProID": 23,
+	"CitySort": 300
+}, {
+	"CityID": 301,
+	"CityName": "μ����",
+	"ProID": 23,
+	"CitySort": 301
+}, {
+	"CityID": 302,
+	"CityName": "������",
+	"ProID": 23,
+	"CitySort": 302
+}, {
+	"CityID": 303,
+	"CityName": "������",
+	"ProID": 23,
+	"CitySort": 303
+}, {
+	"CityID": 304,
+	"CityName": "������",
+	"ProID": 23,
+	"CitySort": 304
+}, {
+	"CityID": 305,
+	"CityName": "������",
+	"ProID": 23,
+	"CitySort": 305
+}, {
+	"CityID": 306,
+	"CityName": "ͭ����",
+	"ProID": 23,
+	"CitySort": 306
+}, {
+	"CityID": 307,
+	"CityName": "���Ǹ���",
+	"ProID": 21,
+	"CitySort": 307
+}, {
+	"CityID": 308,
+	"CityName": "������",
+	"ProID": 21,
+	"CitySort": 308
+}, {
+	"CityID": 309,
+	"CityName": "������",
+	"ProID": 21,
+	"CitySort": 309
+}, {
+	"CityID": 310,
+	"CityName": "������",
+	"ProID": 21,
+	"CitySort": 310
+}, {
+	"CityID": 311,
+	"CityName": "������",
+	"ProID": 21,
+	"CitySort": 311
+}, {
+	"CityID": 312,
+	"CityName": "������",
+	"ProID": 21,
+	"CitySort": 312
+}, {
+	"CityID": 313,
+	"CityName": "������",
+	"ProID": 21,
+	"CitySort": 313
+}, {
+	"CityID": 314,
+	"CityName": "������",
+	"ProID": 21,
+	"CitySort": 314
+}, {
+	"CityID": 315,
+	"CityName": "�����",
+	"ProID": 21,
+	"CitySort": 315
+}, {
+	"CityID": 316,
+	"CityName": "������",
+	"ProID": 21,
+	"CitySort": 316
+}, {
+	"CityID": 317,
+	"CityName": "��ɫ��",
+	"ProID": 21,
+	"CitySort": 317
+}, {
+	"CityID": 318,
+	"CityName": "������",
+	"ProID": 21,
+	"CitySort": 318
+}, {
+	"CityID": 319,
+	"CityName": "�ӳ���",
+	"ProID": 21,
+	"CitySort": 319
+}, {
+	"CityID": 320,
+	"CityName": "������",
+	"ProID": 21,
+	"CitySort": 320
+}, {
+	"CityID": 321,
+	"CityName": "������",
+	"ProID": 31,
+	"CitySort": 321
+}, {
+	"CityID": 322,
+	"CityName": "�տ������",
+	"ProID": 31,
+	"CitySort": 322
+}, {
+	"CityID": 323,
+	"CityName": "ɽ�ϵ���",
+	"ProID": 31,
+	"CitySort": 323
+}, {
+	"CityID": 324,
+	"CityName": "��֥����",
+	"ProID": 31,
+	"CitySort": 324
+}, {
+	"CityID": 325,
+	"CityName": "�����",
+	"ProID": 31,
+	"CitySort": 325
+}, {
+	"CityID": 326,
+	"CityName": "�������",
+	"ProID": 31,
+	"CitySort": 326
+}, {
+	"CityID": 327,
+	"CityName": "�������",
+	"ProID": 31,
+	"CitySort": 327
+}, {
+	"CityID": 328,
+	"CityName": "����",
+	"ProID": 26,
+	"CitySort": 328
+}, {
+	"CityID": 329,
+	"CityName": "ʯ��ɽ��",
+	"ProID": 26,
+	"CitySort": 329
+}, {
+	"CityID": 330,
+	"CityName": "������",
+	"ProID": 26,
+	"CitySort": 330
+}, {
+	"CityID": 331,
+	"CityName": "��ԭ��",
+	"ProID": 26,
+	"CitySort": 331
+}, {
+	"CityID": 332,
+	"CityName": "������",
+	"ProID": 26,
+	"CitySort": 332
+}, {
+	"CityID": 333,
+	"CityName": "���ǵ���",
+	"ProID": 24,
+	"CitySort": 333
+}, {
+	"CityID": 334,
+	"CityName": "���ܵ���",
+	"ProID": 24,
+	"CitySort": 334
+}, {
+	"CityID": 335,
+	"CityName": "�������",
+	"ProID": 24,
+	"CitySort": 335
+}, {
+	"CityID": 336,
+	"CityName": "����̩����",
+	"ProID": 24,
+	"CitySort": 336
+}, {
+	"CityID": 337,
+	"CityName": "�������տ¶����������",
+	"ProID": 24,
+	"CitySort": 337
+}, {
+	"CityID": 338,
+	"CityName": "���������ɹ�������",
+	"ProID": 24,
+	"CitySort": 338
+}, {
+	"CityID": 339,
+	"CityName": "����������",
+	"ProID": 24,
+	"CitySort": 339
+}, {
+	"CityID": 340,
+	"CityName": "��³ľ����",
+	"ProID": 24,
+	"CitySort": 340
+}, {
+	"CityID": 341,
+	"CityName": "ʯ������",
+	"ProID": 24,
+	"CitySort": 341
+}, {
+	"CityID": 342,
+	"CityName": "�����������",
+	"ProID": 24,
+	"CitySort": 342
+}, {
+	"CityID": 343,
+	"CityName": "�������",
+	"ProID": 24,
+	"CitySort": 343
+}, {
+	"CityID": 344,
+	"CityName": "��³������",
+	"ProID": 24,
+	"CitySort": 344
+}, {
+	"CityID": 345,
+	"CityName": "���������ɹ�������",
+	"ProID": 24,
+	"CitySort": 345
+}, {
+	"CityID": 346,
+	"CityName": "�����յ���",
+	"ProID": 24,
+	"CitySort": 346
+}, {
+	"CityID": 347,
+	"CityName": "��������",
+	"ProID": 24,
+	"CitySort": 347
+}, {
+	"CityID": 348,
+	"CityName": "��ʲ����",
+	"ProID": 24,
+	"CitySort": 348
+}, {
+	"CityID": 349,
+	"CityName": "ͼľ�����",
+	"ProID": 24,
+	"CitySort": 349
+}, {
+	"CityID": 350,
+	"CityName": "��������������",
+	"ProID": 24,
+	"CitySort": 350
+}, {
+	"CityID": 351,
+	"CityName": "���ױ�����",
+	"ProID": 5,
+	"CitySort": 351
+}, {
+	"CityID": 352,
+	"CityName": "���ͺ�����",
+	"ProID": 5,
+	"CitySort": 352
+}, {
+	"CityID": 353,
+	"CityName": "��ͷ��",
+	"ProID": 5,
+	"CitySort": 353
+}, {
+	"CityID": 354,
+	"CityName": "�ں���",
+	"ProID": 5,
+	"CitySort": 354
+}, {
+	"CityID": 355,
+	"CityName": "�����첼��",
+	"ProID": 5,
+	"CitySort": 355
+}, {
+	"CityID": 356,
+	"CityName": "ͨ����",
+	"ProID": 5,
+	"CitySort": 356
+}, {
+	"CityID": 357,
+	"CityName": "�����",
+	"ProID": 5,
+	"CitySort": 357
+}, {
+	"CityID": 358,
+	"CityName": "�����˹��",
+	"ProID": 5,
+	"CitySort": 358
+}, {
+	"CityID": 359,
+	"CityName": "�����׶���",
+	"ProID": 5,
+	"CitySort": 359
+}, {
+	"CityID": 360,
+	"CityName": "���ֹ�����",
+	"ProID": 5,
+	"CitySort": 360
+}, {
+	"CityID": 361,
+	"CityName": "�˰���",
+	"ProID": 5,
+	"CitySort": 361
+}, {
+	"CityID": 362,
+	"CityName": "��������",
+	"ProID": 5,
+	"CitySort": 362
+}, {
+	"CityID": 363,
+	"CityName": "̨����",
+	"ProID": 32,
+	"CitySort": 363
+}, {
+	"CityID": 364,
+	"CityName": "������",
+	"ProID": 32,
+	"CitySort": 364
+}, {
+	"CityID": 365,
+	"CityName": "��¡��",
+	"ProID": 32,
+	"CitySort": 365
+}, {
+	"CityID": 366,
+	"CityName": "̨����",
+	"ProID": 32,
+	"CitySort": 366
+}, {
+	"CityID": 367,
+	"CityName": "̨����",
+	"ProID": 32,
+	"CitySort": 367
+}, {
+	"CityID": 368,
+	"CityName": "������",
+	"ProID": 32,
+	"CitySort": 368
+}, {
+	"CityID": 369,
+	"CityName": "������",
+	"ProID": 32,
+	"CitySort": 369
+}, {
+	"CityID": 370,
+	"CityName": "�����ر�������",
+	"ProID": 33,
+	"CitySort": 370
+}, {
+	"CityID": 371,
+	"CityName": "����ر�������",
+	"ProID": 34,
+	"CitySort": 371
+}];

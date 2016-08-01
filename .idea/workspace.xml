@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8eb00ed6-ead8-4a81-8e6c-26f06431944a" name="Default" comment="" />
+    <ignored path="m.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="m" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WebBase.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wjaction/default/WebBase.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.98876405">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+              <folding>
+                <marker date="1469382251184" expanded="true" signature="1024:1060" placeholder="select * fro... $" />
+                <marker date="1469382251184" expanded="true" signature="1373:1442" placeholder="select * fro... $" />
+                <marker date="1469382251184" expanded="true" signature="1606:1642" placeholder="select * fro... $" />
+                <marker date="1469382251184" expanded="true" signature="2002:2048" placeholder="select name,... $" />
+                <marker date="1469382251184" expanded="true" signature="2438:2508" placeholder="select bonus... $" />
+                <marker date="1469382251184" expanded="true" signature="2890:3010" placeholder="select actio... $" />
+                <marker date="1469382251184" expanded="true" signature="3082:3185" placeholder="select actio... $" />
+                <marker date="1469382251184" expanded="true" signature="3880:4006" placeholder="select actio... $" />
+                <marker date="1469382251184" expanded="true" signature="4075:4181" placeholder="select actio... $" />
+                <marker date="1469382251184" expanded="true" signature="4634:4754" placeholder="select actio... $" />
+                <marker date="1469382251184" expanded="true" signature="4823:4926" placeholder="select actio... $" />
+                <marker date="1469382251184" expanded="true" signature="5350:5462" placeholder="select actio... $" />
+                <marker date="1469382251184" expanded="true" signature="5880:5982" placeholder="select actio... $" />
+                <marker date="1469382251184" expanded="true" signature="9916:9980" placeholder="select value... $" />
+                <marker date="1469382251184" expanded="true" signature="10091:10160" placeholder="update lotte... " />
+                <marker date="1469382251184" expanded="true" signature="11181:11237" placeholder="select data_... $" />
+                <marker date="1469382251184" expanded="true" signature="11411:11467" placeholder="select maxco... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cash.class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wjaction/default/Cash.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="7.0896688">
+              <caret line="337" column="76" selection-start-line="337" selection-start-column="76" selection-end-line="337" selection-end-column="76" />
+              <folding>
+                <marker date="1469520127753" expanded="true" signature="744:827" placeholder="select usern... $" />
+                <marker date="1469520127753" expanded="true" signature="1883:2099" placeholder="select sum(c... $" />
+                <marker date="1469520127753" expanded="true" signature="2261:2398" placeholder="select sum(m... $" />
+                <marker date="1469520127753" expanded="true" signature="2905:2987" placeholder="select count... $" />
+                <marker date="1469520127753" expanded="true" signature="3044:3113" placeholder="select maxTo... $" />
+                <marker date="1469520127753" expanded="true" signature="3990:4041" placeholder="select * fro... $" />
+                <marker date="1469520127753" expanded="true" signature="4601:4657" placeholder="update ${{$t... " />
+                <marker date="1469520127753" expanded="true" signature="5145:5196" placeholder="select id fr... $" />
+                <marker date="1469520127753" expanded="true" signature="6515:6579" placeholder="select id fr... $" />
+                <marker date="1469520127753" expanded="true" signature="7986:8045" placeholder="select id fr... lottery_bank_list" />
+                <marker date="1469520127753" expanded="true" signature="10768:10909" placeholder="UPDATE `${{$... " />
+                <marker date="1469520127753" expanded="true" signature="10964:11032" placeholder="update ${{$t... " />
+                <marker date="1469520127753" expanded="true" signature="11976:12059" placeholder="SELECT * FRO... ${{$this-&gt;db_prefix}}bank_list" />
+                <marker date="1469520127753" expanded="true" signature="12108:12152" placeholder="SELECT * FRO... ${{$this-&gt;db_prefix}}admin_bank" />
+                <marker date="1469520127753" expanded="true" signature="13007:13084" placeholder="SELECT * FRO... ${{$this-&gt;db_prefix}}admin_bank" />
+                <marker date="1469520127753" expanded="true" signature="13994:14081" placeholder="..." />
+                <marker date="1469520127753" expanded="true" signature="14101:14189" placeholder="..." />
+                <marker date="1469520127753" expanded="true" signature="14209:14225" placeholder="..." />
+                <marker date="1469520127753" expanded="true" signature="14229:14281" placeholder="..." />
+                <marker date="1469520127753" expanded="true" signature="14526:14539" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pay.config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pay.config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.548387">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="funpay.pay.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pay/funpay.pay.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.8644068">
+              <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="155" selection-end-column="25" />
+              <folding>
+                <marker date="1469501032509" expanded="true" signature="2673:2686" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.806452">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wjaction/default/Game.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.8387096">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              <folding>
+                <marker date="1469379211015" expanded="true" signature="6485:6536" placeholder="select coin $" />
+                <marker date="1469379211015" expanded="true" signature="8235:8280" placeholder="select * fro... $" />
+                <marker date="1469379211015" expanded="true" signature="9223:9276" placeholder="update ${{$t... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recharge.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wjinc/default/cash/recharge.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.774194">
+              <caret line="146" column="47" selection-start-line="146" selection-start-column="47" selection-end-line="146" selection-end-column="47" />
+              <folding>
+                <marker date="1469434212181" expanded="true" signature="4128:4251" placeholder="select * fro... $" />
+                <marker date="1469434212181" expanded="true" signature="4262:4318" placeholder="select * fro... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/core/Object.class" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/wjaction/default/Index.class.php" />
+        <option value="$PROJECT_DIR$/wjinc/default/index/inc_data_current.php" />
+        <option value="$PROJECT_DIR$/skin/main/function.js" />
+        <option value="$PROJECT_DIR$/wjaction/default/Game.class.php" />
+        <option value="$PROJECT_DIR$/wjaction/default/WebBase.class.php" />
+        <option value="$PROJECT_DIR$/wjinc/default/cash/recharge-copy.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/wjaction/default/Pay.class.php" />
+        <option value="$PROJECT_DIR$/wjinc/default/cash/recharge.php" />
+        <option value="$PROJECT_DIR$/pay.config.php" />
+        <option value="$PROJECT_DIR$/lib/core/DBAccess.class" />
+        <option value="$PROJECT_DIR$/pay/funpay.pay.php" />
+        <option value="$PROJECT_DIR$/wjaction/default/Cash.class.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1370" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wjaction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.20472442" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\linshi\UPUPW_AP5.3\vhosts\m\wjaction\default" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8eb00ed6-ead8-4a81-8e6c-26f06431944a" name="Default" comment="" />
+      <created>1468553103601</created>
+      <option name="number" value="Default" />
+      <updated>1468553103601</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="2" width="1370" height="733" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17175573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21464226" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20152672" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/Index.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1468912199004" expanded="true" signature="892:962" placeholder="select type,... $" />
+            <marker date="1468912199004" expanded="true" signature="2536:2633" placeholder="select data $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+          <folding>
+            <marker date="1429211520000" expanded="true" signature="219:274" placeholder="select enabl... $" />
+            <marker date="1429211520000" expanded="true" signature="1432:1521" placeholder="select * fro... $" />
+            <marker date="1429211520000" expanded="true" signature="1651:1740" placeholder="select * fro... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/index/inc_data_current.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="74" selection-start-line="82" selection-start-column="73" selection-end-line="82" selection-end-column="74" />
+          <folding>
+            <marker date="1469091667214" expanded="true" signature="76:173" placeholder="select data $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/main/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/WebLoginBase.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <marker date="1457513705900" expanded="true" signature="465:520" placeholder="select fanDi... $" />
+            <marker date="1457513705900" expanded="true" signature="604:721" placeholder="select isOnL... lottery_member_session" />
+            <marker date="1457513705900" expanded="true" signature="969:1018" placeholder="select * fro... $" />
+            <marker date="1457513705900" expanded="true" signature="1723:1759" placeholder="select * fro... $" />
+            <marker date="1457513705900" expanded="true" signature="2892:2952" placeholder="select fanDi... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/WebBase.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+          <folding>
+            <marker date="1469382251184" expanded="true" signature="1024:1060" placeholder="select * fro... $" />
+            <marker date="1469382251184" expanded="true" signature="1373:1442" placeholder="select * fro... $" />
+            <marker date="1469382251184" expanded="true" signature="1606:1642" placeholder="select * fro... $" />
+            <marker date="1469382251184" expanded="true" signature="2002:2048" placeholder="select name,... $" />
+            <marker date="1469382251184" expanded="true" signature="2438:2508" placeholder="select bonus... $" />
+            <marker date="1469382251184" expanded="true" signature="2890:3010" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="3082:3185" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="3880:4006" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="4075:4181" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="4634:4754" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="4823:4926" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="5350:5462" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="5880:5982" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="9916:9980" placeholder="select value... $" />
+            <marker date="1469382251184" expanded="true" signature="10091:10160" placeholder="update lotte... " />
+            <marker date="1469382251184" expanded="true" signature="11181:11237" placeholder="select data_... $" />
+            <marker date="1469382251184" expanded="true" signature="11411:11467" placeholder="select maxco... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/Index.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <marker date="1468912199004" expanded="true" signature="892:962" placeholder="select type,... $" />
+            <marker date="1468912199004" expanded="true" signature="2536:2633" placeholder="select data $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+          <folding>
+            <marker date="1429211520000" expanded="true" signature="219:274" placeholder="select enabl... $" />
+            <marker date="1429211520000" expanded="true" signature="1432:1521" placeholder="select * fro... $" />
+            <marker date="1429211520000" expanded="true" signature="1651:1740" placeholder="select * fro... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/index/inc_data_current.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1469091667214" expanded="true" signature="76:173" placeholder="select data $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/inc_skin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/WebLoginBase.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding>
+            <marker date="1457513705900" expanded="true" signature="465:520" placeholder="select fanDi... $" />
+            <marker date="1457513705900" expanded="true" signature="604:721" placeholder="select isOnL... lottery_member_session" />
+            <marker date="1457513705900" expanded="true" signature="969:1018" placeholder="select * fro... $" />
+            <marker date="1457513705900" expanded="true" signature="1723:1759" placeholder="select * fro... $" />
+            <marker date="1457513705900" expanded="true" signature="2892:2952" placeholder="select fanDi... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/Cai.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sqlin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.95555556">
+          <caret line="64" column="22" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/core/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.967742">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_cache_$98sdf29@fw!d#s4fef/systemSettings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/user/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.2580647">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/inc_skin_lr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.16129">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/index/inc_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52962965">
+          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9555556">
+          <caret line="48" column="69" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/index/inc_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/inc_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7703704">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/inc_skin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7560074">
+          <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/index/inc_data_current.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="74" selection-start-line="82" selection-start-column="73" selection-end-line="82" selection-end-column="74" />
+          <folding>
+            <marker date="1469091667214" expanded="true" signature="76:173" placeholder="select data $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5526802">
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.677419">
+          <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+          <folding>
+            <marker date="1429211520000" expanded="true" signature="219:274" placeholder="select enabl... $" />
+            <marker date="1429211520000" expanded="true" signature="1432:1521" placeholder="select * fro... $" />
+            <marker date="1429211520000" expanded="true" signature="1651:1740" placeholder="select * fro... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/Index.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.548387">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <marker date="1468912199004" expanded="true" signature="892:962" placeholder="select type,... $" />
+            <marker date="1468912199004" expanded="true" signature="2536:2633" placeholder="select data $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/index/inc_game.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.2131147">
+          <caret line="75" column="33" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
+          <folding>
+            <marker date="1429213772000" expanded="true" signature="214:316" placeholder="select id, g... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/main/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="972" column="18" selection-start-line="972" selection-start-column="18" selection-end-line="972" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/cash/recharge-copy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-48.677418">
+          <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+          <folding>
+            <element signature="e#575#618#0#HTML" expanded="true" />
+            <element signature="e#3896#3929#0#HTML" expanded="true" />
+            <element signature="e#4210#4243#0#HTML" expanded="true" />
+            <element signature="e#4543#4576#0#HTML" expanded="true" />
+            <element signature="e#4881#4914#0#HTML" expanded="true" />
+            <element signature="e#5187#5220#0#HTML" expanded="true" />
+            <element signature="e#5492#5525#0#HTML" expanded="true" />
+            <element signature="e#5795#5828#0#HTML" expanded="true" />
+            <element signature="e#6146#6179#0#HTML" expanded="true" />
+            <element signature="e#6446#6479#0#HTML" expanded="true" />
+            <element signature="e#6711#6744#0#HTML" expanded="true" />
+            <element signature="e#6969#7002#0#HTML" expanded="true" />
+            <element signature="e#7268#7301#0#HTML" expanded="true" />
+            <element signature="e#7560#7593#0#HTML" expanded="true" />
+            <element signature="e#7818#7851#0#HTML" expanded="true" />
+            <element signature="e#8078#8111#0#HTML" expanded="true" />
+            <element signature="e#8360#8393#0#HTML" expanded="true" />
+            <element signature="e#8679#8712#0#HTML" expanded="true" />
+            <element signature="e#8981#9014#0#HTML" expanded="true" />
+            <element signature="e#9270#9303#0#HTML" expanded="true" />
+            <element signature="e#9608#9641#0#HTML" expanded="true" />
+            <element signature="e#9919#9952#0#HTML" expanded="true" />
+            <element signature="e#10221#10254#0#HTML" expanded="true" />
+            <element signature="e#10507#10540#0#HTML" expanded="true" />
+            <element signature="e#10852#10885#0#HTML" expanded="true" />
+            <element signature="e#11510#11532#0#HTML" expanded="true" />
+            <element signature="e#11811#11854#0#HTML" expanded="true" />
+            <element signature="e#12218#12243#0#HTML" expanded="true" />
+            <element signature="e#12393#12416#0#HTML" expanded="true" />
+            <marker date="1469429684159" expanded="true" signature="75:261" placeholder="select mb.*,... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.806452">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/Bet.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5378928">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/WebBase.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.98876405">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <marker date="1469382251184" expanded="true" signature="1024:1060" placeholder="select * fro... $" />
+            <marker date="1469382251184" expanded="true" signature="1373:1442" placeholder="select * fro... $" />
+            <marker date="1469382251184" expanded="true" signature="1606:1642" placeholder="select * fro... $" />
+            <marker date="1469382251184" expanded="true" signature="2002:2048" placeholder="select name,... $" />
+            <marker date="1469382251184" expanded="true" signature="2438:2508" placeholder="select bonus... $" />
+            <marker date="1469382251184" expanded="true" signature="2890:3010" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="3082:3185" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="3880:4006" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="4075:4181" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="4634:4754" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="4823:4926" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="5350:5462" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="5880:5982" placeholder="select actio... $" />
+            <marker date="1469382251184" expanded="true" signature="9916:9980" placeholder="select value... $" />
+            <marker date="1469382251184" expanded="true" signature="10091:10160" placeholder="update lotte... " />
+            <marker date="1469382251184" expanded="true" signature="11181:11237" placeholder="select data_... $" />
+            <marker date="1469382251184" expanded="true" signature="11411:11467" placeholder="select maxco... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/WebLoginBase.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.548387">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <marker date="1457513705900" expanded="true" signature="465:520" placeholder="select fanDi... $" />
+            <marker date="1457513705900" expanded="true" signature="604:721" placeholder="select isOnL... lottery_member_session" />
+            <marker date="1457513705900" expanded="true" signature="969:1018" placeholder="select * fro... $" />
+            <marker date="1457513705900" expanded="true" signature="1723:1759" placeholder="select * fro... $" />
+            <marker date="1457513705900" expanded="true" signature="2892:2952" placeholder="select fanDi... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.645161">
+          <caret line="700" column="20" selection-start-line="700" selection-start-column="20" selection-end-line="700" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/Game.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.8387096">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding>
+            <marker date="1469379211015" expanded="true" signature="6485:6536" placeholder="select coin $" />
+            <marker date="1469379211015" expanded="true" signature="8235:8280" placeholder="select * fro... $" />
+            <marker date="1469379211015" expanded="true" signature="9223:9276" placeholder="update ${{$t... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/User.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1290324">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <marker date="1457513738380" expanded="true" signature="450:513" placeholder="update ${{$t... " />
+            <marker date="1457513738380" expanded="true" signature="2508:2599" placeholder="select * fro... $" />
+            <marker date="1457513738380" expanded="true" signature="3303:3382" placeholder="update lotte... " />
+            <marker date="1457513738380" expanded="true" signature="4211:4262" placeholder="select uid f... $" />
+            <marker date="1457513738380" expanded="true" signature="5016:5063" placeholder="select * fro... $" />
+            <marker date="1457513738380" expanded="true" signature="5267:5325" placeholder="select Value... $" />
+            <marker date="1457513738380" expanded="true" signature="5479:5534" placeholder="select paren... $" />
+            <marker date="1457513738380" expanded="true" signature="5748:5829" placeholder="select * fro... $" />
+            <marker date="1457513738380" expanded="true" signature="6189:6250" placeholder="select usern... $" />
+            <marker date="1457513738380" expanded="true" signature="6455:6536" placeholder="update ${{$t... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjinc/default/cash/recharge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.774194">
+          <caret line="146" column="47" selection-start-line="146" selection-start-column="47" selection-end-line="146" selection-end-column="47" />
+          <folding>
+            <marker date="1469434212181" expanded="true" signature="4128:4251" placeholder="select * fro... $" />
+            <marker date="1469434212181" expanded="true" signature="4262:4318" placeholder="select * fro... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/core/DBAccess.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8305087">
+          <caret line="202" column="14" selection-start-line="202" selection-start-column="14" selection-end-line="202" selection-end-column="14" />
+          <folding>
+            <marker date="1469497067507" expanded="true" signature="8684:8703" placeholder="insert into ${$table}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pay.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.548387">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/Pay.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.1792977">
+          <caret line="170" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="170" selection-end-column="5" />
+          <folding>
+            <marker date="1469434075229" expanded="true" signature="929:1004" placeholder="SELECT `id` ${{$this-&gt;db_prefix}}bank_list" />
+            <marker date="1469434075229" expanded="true" signature="1036:1078" placeholder="select id fr... $" />
+            <marker date="1469434075229" expanded="true" signature="1036:1087" placeholder="select id fr... lottery_bank_list" />
+            <marker date="1469434075229" expanded="true" signature="1036:1095" placeholder="select id fr... lottery_bank_list" />
+            <marker date="1469434075229" expanded="true" signature="3608:3691" placeholder="SELECT * FRO... ${{$this-&gt;db_prefix}}bank_list" />
+            <marker date="1469434075229" expanded="true" signature="3752:3796" placeholder="SELECT * FRO... ${{$this-&gt;db_prefix}}admin_bank" />
+            <marker date="1469434075229" expanded="true" signature="4951:5028" placeholder="SELECT * FRO... ${{$this-&gt;db_prefix}}admin_bank" />
+            <marker date="1469434075229" expanded="true" signature="6764:6777" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pay/funpay.pay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8644068">
+          <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="155" selection-end-column="25" />
+          <folding>
+            <marker date="1469501032509" expanded="true" signature="2673:2686" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjaction/default/Cash.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="7.0896688">
+          <caret line="337" column="76" selection-start-line="337" selection-start-column="76" selection-end-line="337" selection-end-column="76" />
+          <folding>
+            <marker date="1469520127753" expanded="true" signature="744:827" placeholder="select usern... $" />
+            <marker date="1469520127753" expanded="true" signature="1883:2099" placeholder="select sum(c... $" />
+            <marker date="1469520127753" expanded="true" signature="2261:2398" placeholder="select sum(m... $" />
+            <marker date="1469520127753" expanded="true" signature="2905:2987" placeholder="select count... $" />
+            <marker date="1469520127753" expanded="true" signature="3044:3113" placeholder="select maxTo... $" />
+            <marker date="1469520127753" expanded="true" signature="3990:4041" placeholder="select * fro... $" />
+            <marker date="1469520127753" expanded="true" signature="4601:4657" placeholder="update ${{$t... " />
+            <marker date="1469520127753" expanded="true" signature="5145:5196" placeholder="select id fr... $" />
+            <marker date="1469520127753" expanded="true" signature="6515:6579" placeholder="select id fr... $" />
+            <marker date="1469520127753" expanded="true" signature="7986:8045" placeholder="select id fr... lottery_bank_list" />
+            <marker date="1469520127753" expanded="true" signature="10768:10909" placeholder="UPDATE `${{$... " />
+            <marker date="1469520127753" expanded="true" signature="10964:11032" placeholder="update ${{$t... " />
+            <marker date="1469520127753" expanded="true" signature="11976:12059" placeholder="SELECT * FRO... ${{$this-&gt;db_prefix}}bank_list" />
+            <marker date="1469520127753" expanded="true" signature="12108:12152" placeholder="SELECT * FRO... ${{$this-&gt;db_prefix}}admin_bank" />
+            <marker date="1469520127753" expanded="true" signature="13007:13084" placeholder="SELECT * FRO... ${{$this-&gt;db_prefix}}admin_bank" />
+            <marker date="1469520127753" expanded="true" signature="13994:14081" placeholder="..." />
+            <marker date="1469520127753" expanded="true" signature="14101:14189" placeholder="..." />
+            <marker date="1469520127753" expanded="true" signature="14209:14225" placeholder="..." />
+            <marker date="1469520127753" expanded="true" signature="14229:14281" placeholder="..." />
+            <marker date="1469520127753" expanded="true" signature="14526:14539" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
